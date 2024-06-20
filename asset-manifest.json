@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/Modal-App/static/js/main.af42945b.js",
+    "main.js": "/Modal-App/static/js/main.b8824f99.js",
     "static/js/422.1e400973.chunk.js": "/Modal-App/static/js/422.1e400973.chunk.js",
     "index.html": "/Modal-App/index.html",
-    "main.af42945b.js.map": "/Modal-App/static/js/main.af42945b.js.map",
+    "main.b8824f99.js.map": "/Modal-App/static/js/main.b8824f99.js.map",
     "422.1e400973.chunk.js.map": "/Modal-App/static/js/422.1e400973.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.af42945b.js"
+    "static/js/main.b8824f99.js"
   ]
 }
