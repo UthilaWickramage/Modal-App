@@ -93,7 +93,7 @@ export const Modal = ({showModal, setShowModal}) => {
       if(e.key === 'Escape' && showModal){
          showModal(false)
       }
-   }, [setShowModal, showModal])
+   }, [showModal])
 
    useEffect (() => {
       document.addEventListener('keydown', keyPress)
