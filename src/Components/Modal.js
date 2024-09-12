@@ -105,7 +105,7 @@ export const Modal = ({showModal, setShowModal}) => {
          <Background onClick={closeModal} ref={modalRef}>
             <animated.div style={animation}>
                <ModalWrapper showModal={showModal}>
-                  <ModalImg src="https://images.pexels.com/photos/24405949/pexels-photo-24405949/free-photo-of-the-aurora-bore-is-shown-in-the-sky-over-a-forest.jpeg" alt='camera' />
+                  <ModalImg src="https://images.pexels.com/photos/27835751/pexels-photo-27835751/free-photo-of-a-tree-with-green-apples-on-it.jpeg" alt='camera' />
                <ModalContent>
                   <h1>Are you ready</h1>
                   <p>Get exclusive access to our next launch</p>
